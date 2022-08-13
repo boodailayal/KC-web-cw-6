@@ -27,5 +27,5 @@ console.log(`لقد حصلت على ضعيف☹️`)
 }else ( grade < 50 )
 
 console.log(`راسب💔`)
-
-
+ 
+<!-- javascript -->
